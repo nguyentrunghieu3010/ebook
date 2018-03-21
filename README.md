@@ -14,3 +14,6 @@ https://www.redargyle.com/blog/introduction-node-js-salesforce/
 
 # Deploy Bitbucket To Heroku
 https://www.youtube.com/watch?v=q-lwO5Pdqv0
+
+#Smart Contracts: 12 Use Cases for Business & Beyond
+https://bloq.com/assets/smart-contracts-white-paper.pdf
