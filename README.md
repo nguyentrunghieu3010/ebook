@@ -17,3 +17,6 @@ https://www.youtube.com/watch?v=q-lwO5Pdqv0
 
 #Smart Contracts: 12 Use Cases for Business & Beyond
 https://bloq.com/assets/smart-contracts-white-paper.pdf
+
+#The Use of Blockchain	Technology	in	Smart	Contracts
+https://www.cs.cf.ac.uk/PATS2/@archive_file?c=&p=file&p=729&n=final&f=1-C1461872-FinalReport.pdf
