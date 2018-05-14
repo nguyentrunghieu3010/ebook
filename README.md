@@ -37,3 +37,6 @@ http://exploringjs.com/es6/ch_numbers.html#sec_overview-numbers
 
 # GO EXAMPLES
 https://gobyexample.com/
+
+# Nodejs Modularization Oriented
+https://github.com/nkjm/bot-express
