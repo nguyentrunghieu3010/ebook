@@ -40,3 +40,6 @@ https://gobyexample.com/
 
 # Nodejs Modularization Oriented
 https://github.com/nkjm/bot-express
+
+# How do I modify my git bash profile in Windows?
+https://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
