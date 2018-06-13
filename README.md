@@ -43,3 +43,17 @@ https://github.com/nkjm/bot-express
 
 # How do I modify my git bash profile in Windows?
 https://superuser.com/questions/602872/how-do-i-modify-my-git-bash-profile-in-windows
+http://www.control-escape.com/linux/editing-vim.html
+
+# Create Bash_Profile on Linux/Ubuntu AWS For Node Env Variables
+- ls -a => Check Files
+- touch .bash_profile => create file
+- Start vi .bash_profile => Edit File
+- Hit i to go to Insert mode.
+- Type some text.
+- Hit Escape to return to Normal mode.
+- Type :w test.txt to save your work
+- Type :q to quit
+- source .bash_profile => For committing your changes
+- cd project folder 
+- pm2 delete app-id of project to reset pm2 loading .bash_profile
