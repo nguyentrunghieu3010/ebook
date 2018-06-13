@@ -57,3 +57,12 @@ http://www.control-escape.com/linux/editing-vim.html
 - source .bash_profile => For committing your changes
 - cd project folder 
 - pm2 delete app-id of project to reset pm2 loading .bash_profile
+
+# Remove \r In .bash_profile
+vi -b filename
+
+Then in vi, type:
+
+:%s/\r$//
+:x
+https://unix.stackexchange.com/questions/391223/why-am-i-getting-line-1-r-command-not-found
