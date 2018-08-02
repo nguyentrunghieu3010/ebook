@@ -14,6 +14,9 @@ https://github.com/OpenZeppelin/zeppelin-solidity
 ## INTRODUCTION TO NODE.JS AND SALESFORCE
 https://www.redargyle.com/blog/introduction-node-js-salesforce/
 
+## JavaScript Algorithms and Data Structures
+https://github.com/trekhleb/javascript-algorithms
+
 ## Deploy Bitbucket To Heroku
 https://www.youtube.com/watch?v=q-lwO5Pdqv0
 
