@@ -17,6 +17,8 @@ https://www.redargyle.com/blog/introduction-node-js-salesforce/
 ## JavaScript Algorithms and Data Structures
 https://github.com/trekhleb/javascript-algorithms
 
+https://github.com/kennymkchan/interview-questions-in-javascript
+
 ## Deploy Bitbucket To Heroku
 https://www.youtube.com/watch?v=q-lwO5Pdqv0
 
