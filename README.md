@@ -76,3 +76,6 @@ https://unix.stackexchange.com/questions/391223/why-am-i-getting-line-1-r-comman
 
 # Developer RoadMap
 https://github.com/kamranahmedse/developer-roadmap
+
+# Selenide vs Selenium
+https://github.com/codeborne/selenide/wiki/Selenide-vs-Selenium
