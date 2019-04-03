@@ -18,14 +18,8 @@ https://github.com/trekhleb/javascript-algorithms
 
 https://github.com/kennymkchan/interview-questions-in-javascript
 
-## Deploy Bitbucket To Heroku
-https://www.youtube.com/watch?v=q-lwO5Pdqv0
-
-## Smart Contracts: 12 Use Cases for Business & Beyond
-https://bloq.com/assets/smart-contracts-white-paper.pdf
-
-## The Use of Blockchain Technology in Smart Contracts
-https://www.cs.cf.ac.uk/PATS2/@archive_file?c=&p=file&p=729&n=final&f=1-C1461872-FinalReport.pdf
+## Getting Started with Spring
+https://data-flair.training/blogs/spring-framework-architecture/
 
 ## NODEJS MONGODB MLAB
 https://github.com/lucasjellema/nodejs-mongodb-quickstart/blob/master/connect.js
@@ -40,9 +34,6 @@ https://github.com/HaiderMalik12/series_tasks_node
 https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
 
 http://exploringjs.com/es6/ch_numbers.html#sec_overview-numbers
-
-# GO EXAMPLES
-https://gobyexample.com/
 
 # Nodejs Modularization Oriented
 https://github.com/nkjm/bot-express
