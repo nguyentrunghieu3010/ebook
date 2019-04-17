@@ -69,3 +69,6 @@ https://github.com/kamranahmedse/developer-roadmap
 
 # Selenide vs Selenium
 https://github.com/codeborne/selenide/wiki/Selenide-vs-Selenium
+
+# Awesome Java
+https://github.com/akullpp/awesome-java
