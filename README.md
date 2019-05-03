@@ -9,7 +9,6 @@ https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-
 ## HackerRank Algorithms Solutions
 https://github.com/RodneyShag/HackerRank_solutions
 
-
 ## INTRODUCTION TO NODE.JS AND SALESFORCE
 https://www.redargyle.com/blog/introduction-node-js-salesforce/
 
@@ -34,6 +33,10 @@ https://github.com/HaiderMalik12/series_tasks_node
 https://medium.com/@mandeep1012/function-declarations-vs-function-expressions-b43646042052
 
 http://exploringjs.com/es6/ch_numbers.html#sec_overview-numbers
+
+## TypeScript HandBook
+https://www.tutorialsteacher.com/typescript/typescript-namespace
+https://www.typescriptlang.org/docs/handbook/basic-types.html
 
 # Nodejs Modularization Oriented
 https://github.com/nkjm/bot-express
