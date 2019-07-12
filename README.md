@@ -1,3 +1,8 @@
+
+## Tips Conversations Technology Leaders
+
+http://katemats.com/about/
+
 ## Ebook
 https://itviec.com/blog/5-viec-lam-it-hot-nhat/
 
